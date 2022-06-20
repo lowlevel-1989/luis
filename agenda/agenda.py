@@ -3,7 +3,7 @@ Creado por Vinicio Valbuena
 Esto es un programa guia para la tarea colocada a mis hermanos.
 
 Reglas:
-    - No se utilizara ninguna función con excepción de lower, len, print, int.
+    - No se utilizara ninguna función con excepción de lower, len, print, int, range.
     - Como base de datos solo se utilizara un array de una dimensión (Array 1D).
     - La base de datos debe iniciar con algun dato de referencia.
     - La base de datos debe poder grabar nuevos datos.
